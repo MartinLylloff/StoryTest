@@ -1,1 +1,2 @@
 The first chapter
+The second line of chapter 1
